@@ -1,0 +1,12 @@
+/*Selector Universal*/
+*{
+    background-color: rgb(153, 179, 60);
+    color: rgb(0, 0, 0);
+}
+#titulos{
+    color:rgb(124, 29, 29);
+    text-align: center;
+}
+.letras-li{
+color: rgb(107, 72, 16);
+}
